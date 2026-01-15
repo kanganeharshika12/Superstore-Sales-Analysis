@@ -3,10 +3,10 @@
 🛒 Superstore Sales Performance Dashboard
 An interactive Power BI dashboard designed to analyze retail business growth and profitability.
 
-🎯 Objective
+🎯 Objective :
 To transform raw sales data into actionable insights, helping business owners track revenue, identify loss-making regions, and understand customer behavior.
 
-📊 Key Features
+📊 Key Features:
 Sales & Profit Trends: Visualizing monthly and yearly performance.
 
 Geographic Analysis: Map-based tracking of sales across different states.
